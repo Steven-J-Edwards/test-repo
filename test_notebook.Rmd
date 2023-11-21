@@ -1,0 +1,24 @@
+---
+title: "R Notebook Test"
+output: html_notebook
+---
+
+## This is a test notebook for our project
+
+```{r}
+a <- 6
+
+b <- 3
+
+c <- a / b
+
+c
+```
+
+## This is a section header
+
+Typing random text is easier and much more aesthetically pleasing in this view.
+
+```{r}
+
+```
