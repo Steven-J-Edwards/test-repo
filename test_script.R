@@ -1,5 +1,5 @@
 # this is my test script
-x = 10
+x = 12
 y = 9
 
 z = x + y
