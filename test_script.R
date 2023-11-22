@@ -1,6 +1,6 @@
 # this is my test script
-x = 12
-y = 9
+x = 6
+y = 25
 
 z = x + y
 
